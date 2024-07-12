@@ -13,7 +13,7 @@ return(
    <a href='#' id='home'>Home</a>
     <a href='#'id='about'>About</a>
     <a href='#' id='contacts'>Contacts</a>
-    <a href='#' id='projects'>Projects</a>
+    <a href='# ' id='projects'>Projects</a>
    </div>
 
     </div>
