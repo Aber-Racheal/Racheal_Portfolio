@@ -15,7 +15,7 @@ const Footer = () => {
 
         <div><p>+256787635823|+2567410923</p></div>
         <div><p> LinkedIn</p></div>
-        <div><p> Twitter</p></div>
+        <div> <p> Twitter</p></div>
 
             </div>
         </div>
