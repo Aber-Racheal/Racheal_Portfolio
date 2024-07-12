@@ -1,0 +1,81 @@
+.aboutContainer{
+    display: flex;
+    margin: 5%;
+    gap: 0px;
+    
+    
+}
+
+
+#myImage{
+    width: 70%;
+
+
+}
+
+.aboutContent{
+height: 600px;
+background-color: rgb(37, 37, 37);
+
+}
+.aboutH{
+    margin: 5%;
+padding-bottom: 0%;
+color: white;
+font-weight: lighter;
+}
+
+
+.aboutParagraph{
+    font-size: 20px;
+    font-style:normal;
+    color: white;
+    padding-left :5%;
+    font-style: normal;    
+}
+
+
+.aboutTitle{
+    font-size: 40px;
+    color: white;
+    padding-top: 0%;
+    padding-left: 5%;
+}
+
+
+
+.codeSkills{
+    display: flex;
+    height: 300px;
+    flex-direction: row;
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 4.5%;
+    background-color:black;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: #ffa500 1px 3px 5px 5px;
+    justify-content: space-around;
+}
+
+
+#btnCV{
+    height: 50px;
+    width: 200px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: orange;
+    border: orange;
+    margin-top: 3%;
+}
+
+
+
+.skillParagraph{
+    color: white;
+    margin-top: 5%;
+}
+
+

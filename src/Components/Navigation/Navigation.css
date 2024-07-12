@@ -1,0 +1,46 @@
+.navLinks{
+    gap: 50px;
+    text-align: right;
+    margin-right: 5%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+
+#home{
+    font-size: 20px;
+ color: orange;
+    padding: 0%;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+#about{
+    font-size: 20px;
+    color: orange;
+    padding: 5%;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover{
+color: gray;
+
+}
+
+
+#projects{
+    font-size: 20px;
+    color: orange;
+    padding: 5%;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#contacts{
+    font-size: 20px;
+    color: orange;
+    padding: 0%;
+    text-decoration: none;
+    cursor: pointer;
+}
