@@ -4,6 +4,13 @@
     margin-right: 5%;
     margin-top: 1%;
     font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#myLogo{
+width: 40%;
 }
 
 #home{

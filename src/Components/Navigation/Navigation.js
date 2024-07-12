@@ -5,11 +5,17 @@ return(
     <div className='body'>
 
     <div className='navLinks'>
-    <img src='' id='myLogo'/>
-    <a href='#' id='home'>Home</a>
+
+        <div>
+        <img src='./RachealLogo.png' id='myLogo'/>
+        </div>
+   <div>
+   <a href='#' id='home'>Home</a>
     <a href='#'id='about'>About</a>
     <a href='#' id='contacts'>Contacts</a>
     <a href='#' id='projects'>Projects</a>
+   </div>
+
     </div>
  
     </div>
