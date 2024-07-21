@@ -9,11 +9,11 @@ return(
         <div>
         <img src='./RachealLogo.png' id='myLogo'/>
         </div>
-   <div>
-   <a href='#' id='home'>Home</a>
-    <a href='#'id='about'>About</a>
-    <a href='#' id='contacts'>Contacts</a>
-    <a href='# ' id='projects'>Projects</a>
+   <div className='whole-navigation'>
+   <a href='#homepage' id='home'>Home</a>
+    <a href='#aboutpage'id='about'>About</a>
+    <a href='#projectSection' id='contacts'>Projects</a>
+    <a href='#footer' id='projects'>Contacts</a>
    </div>
 
     </div>

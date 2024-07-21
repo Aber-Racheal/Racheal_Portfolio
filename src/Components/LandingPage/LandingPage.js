@@ -1,10 +1,9 @@
 import './LandingPage.css'
 
-// import '/home/studen/Desktop/My_portfolio/racheal-portfolio/src/App.css'
 
 const LandingPage =()=>{
     return(
-        <div className='topBackground'>
+        <div className='topBackground' id='homepage'>
         <div className='landing'>
             <p className='greeting'>Hello My Name is</p>
 

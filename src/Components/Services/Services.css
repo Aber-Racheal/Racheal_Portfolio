@@ -49,6 +49,10 @@ color: white;
 .cardDescription{
     text-align: center;
     color: white;
+    font-size: 20px;
+    padding: 3%;
+    font-style: oblique;
+    
 }
 
 #cardIcons{

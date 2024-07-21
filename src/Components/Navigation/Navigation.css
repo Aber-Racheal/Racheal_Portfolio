@@ -1,3 +1,9 @@
+.whole-navigation a{
+    gap:40px;
+}
+
+
+
 .navLinks{
     gap: 50px;
     text-align: right;
@@ -6,6 +12,7 @@
     font-weight: bold;
     display: flex;
     justify-content: space-between;
+    position: static;
 }
 
 
@@ -28,11 +35,6 @@ width: 40%;
     padding: 5%;
     text-decoration: none;
     cursor: pointer;
-}
-
-a:hover{
-color: gray;
-
 }
 
 

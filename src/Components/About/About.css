@@ -2,7 +2,7 @@
     display: flex;
     margin: 5%;
     gap: 0px;
-    
+    height: 1000px;
     
 }
 
@@ -31,7 +31,8 @@ font-weight: lighter;
     font-style:normal;
     color: white;
     padding-left :5%;
-    font-style: normal;    
+    font-style: normal; 
+    line-height: 30px;   
 }
 
 
@@ -59,6 +60,24 @@ font-weight: lighter;
 }
 
 
+.codeColumn{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.codeColumn1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.codeColumn2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
 #btnCV{
     height: 50px;
     width: 200px;
@@ -69,6 +88,7 @@ font-weight: lighter;
     background-color: orange;
     border: orange;
     margin-top: 3%;
+    margin-left: 5%
 }
 
 
@@ -79,3 +99,7 @@ font-weight: lighter;
 }
 
 
+
+.about{
+    height: 750px;
+}

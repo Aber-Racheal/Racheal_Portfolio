@@ -3,7 +3,7 @@ import '/home/studen/Desktop/My_portfolio/racheal-portfolio/src/App.css'
 
 const About = ()=>{
 return(
-    <div className='about'>
+    <div className='about' id='aboutpage'>
         <div className='aboutContainer'>
             <div className='imageContainer'>
                 <img src='/Rachea.jpg' id='myImage'/>
@@ -11,8 +11,8 @@ return(
 
             <div className='aboutContent'>
                 <h1 className='aboutH'>_About</h1>
-                <h1 className='aboutTitle'>Who Am I</h1>
-                <p className='aboutParagraph'>Growing up, playtime meant exploring, not glued to screens. This tech-reliance has fueled unhealthy snacking habits and childhood obesity. Imagine using tech to empower children with nutritional knowledge before they reach for a snack. This is where Racheal’s software skills come in. She aims to create an engaging way for children to make informed choices about their diet, all within the tech world they know. It's like using technology to shoot two birds with one stone: play and eat but in a healthy way!</p>
+                <h1 className='aboutTitle'>Who Is Racheal</h1>
+                <p className='aboutParagraph'>Artificial intelligence and virtual reality have proven to be leading niches for most young people, captivating their imagination and offering unprecedented opportunities for innovation and personal growth. Racheal believes the intersection of AI-powered chatbots, immersive VR environments, and mental wellness can create a safe haven for mentally unwell youth. Driven by her background in software engineering and her deep appreciation for music, she envisions machine learning algorithms and data analytics as essential tools in creating personalized, empowering digital spaces where young people can find solace and support on their mental health journeys.</p>
                 
                 <div className='codeSkills'>
                     <div className='codeColumn'>
@@ -35,7 +35,7 @@ return(
                     
 
 
-                    <div className='codeColumn'>
+                    <div className='codeColumn1'>
                       
                       <div>
                     <p className='skillParagraph'>Kotlin</p>
@@ -54,7 +54,7 @@ return(
                     </div>
                     
 
-                    <div className='codeColumn'>
+                    <div className='codeColumn2'>
                       
                       <div>
                     <p className='skillParagraph'>UX Design</p>
@@ -73,7 +73,7 @@ return(
                     </div>
                     
                 </div>
-                <button id='btnCV'>Download CV</button>
+                <button id='btnCV'>Open CV</button>
             </div>
         </div>
 
