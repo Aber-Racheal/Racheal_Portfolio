@@ -19,17 +19,20 @@ return(
                       
                       <div>
                     <p className='skillParagraph'>Html5</p>
-                    <img id='starRating'/>
+                    <p className='starrating'>**** </p>
+                   
                         </div>  
 
                         <div>
                     <p className='skillParagraph'>CSS3</p>
-                    <img id='starRating'/>
+                    <p className='starrating'>****</p>
+                  
                         </div>  
 
                         <div>
                     <p className='skillParagraph'>Javascript</p>
-                    <img id='starRating'/>
+                    <p className='starrating'>***</p>
+                  
                         </div>  
                     </div>
                     
@@ -39,17 +42,20 @@ return(
                       
                       <div>
                     <p className='skillParagraph'>Kotlin</p>
-                    <img id='starRating'/>
+                    <p className='starrating'>**</p>
+                 
                         </div>  
 
                         <div>
                     <p className='skillParagraph'>Python</p>
-                    <img id='starRating'/>
+                    <p className='starrating'>***</p>
+                  
                         </div>  
 
                         <div>
                     <p className='skillParagraph'>Data and Software Architecture</p>
-                    <img id='starRating'/>
+                    <p className='starrating'>****</p>
+                   
                         </div>  
                     </div>
                     
@@ -58,17 +64,20 @@ return(
                       
                       <div>
                     <p className='skillParagraph'>UX Design</p>
-                    <img id='starRating'/>
+                    <p className='starrating'>****</p>
+                  
                         </div>  
 
                         <div>
                     <p className='skillParagraph'>Product Management</p>
-                    <img id='starRating'/>
+                    <p className='starrating'>***</p>
+                 
                         </div>  
 
                         <div>
                     <p className='skillParagraph'>UX Reseach</p>
-                    <img id='starRating'/>
+                    <p className='starrating'>***</p>
+                  
                         </div>  
                     </div>
                     

@@ -11,7 +11,7 @@ const LandingPage =()=>{
 
             <h3 className='myDescription'>A Creative Freelancer & Full Stack Developer</h3>
 
-            <button className='btnKnowMore'>KNOW MORE</button>
+          <a href='#service'>  <button className='btnKnowMore'>KNOW MORE</button></a>
 
 
         </div>

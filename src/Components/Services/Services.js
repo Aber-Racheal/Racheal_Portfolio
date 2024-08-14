@@ -3,7 +3,7 @@ import '/home/studen/Desktop/My_portfolio/racheal-portfolio/src/App.css'
 
 const Services = ()=>{
 return(
-    <div className='services'>
+    <div className='services' id='service'>
 
 
 

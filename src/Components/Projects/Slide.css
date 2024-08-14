@@ -19,6 +19,13 @@
     justify-content: center;
   }
   
+
+  .slide-image:hover {
+    transform: scale(1.09); /* Scale up on hover */
+    
+  }
+
+  
   .slide.active {
     opacity: 1;
   }
@@ -90,3 +97,4 @@ h2 a{
     font-size: 30px;
     color: white;
 }
+

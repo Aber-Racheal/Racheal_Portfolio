@@ -4,7 +4,7 @@ import './Slide.css'; // Import CSS for Slideshow component
 
 const Slideshow = () => {
   const slides = [
-    { id: 1, title: 'Project 1', description:'THis project', image: '/Rachea.png' },
+    { id: 1, title: 'Baims Educational Platform', description:'THis project', image: '/Baims.png' },
     { id: 2, title: 'Project 2', description:'THis project', image: 'url_to_your_image_2.jpg' },
     { id: 3, title: 'Project 3', description:'THis project', image: 'url_to_your_image_3.jpg' },
     { id: 4, title: 'Project 4', description:'THis project', image: 'url_to_your_image_4.jpg' },
